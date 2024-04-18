@@ -1,0 +1,1 @@
+set(__QT_DEPLOY_TARGET_PendulumSimulation_FILE /home/mmssl/Project/QT_PendulumSimulation/PendulumSimulation/build/Desktop-Debug/PendulumSimulation)
